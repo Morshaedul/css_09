@@ -1,0 +1,15 @@
+
+    color:white
+    backgroung-color:yellow
+    text: shadow 5px;
+    padding: auto;
+}
+.body{
+    display:block;
+    margin:auto
+    width: 900px;
+}
+nav ul il{
+    display:inline-block
+float:left
+}
